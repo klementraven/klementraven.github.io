@@ -1,0 +1,55 @@
+#nav {
+  /border-style: solid;
+  border-width: medium;
+  font-size: 20px;
+  color: red;
+  width: 100%;
+}
+
+body {
+  padding: 10%;
+}
+
+#blue {
+  color: blue;
+}
+
+#jedro {
+  color:
+}
+
+#telo {
+  padding-top: 30px;;
+  background-color: white;
+  padding: 2%;
+  margin: 10px;
+  border-style: solid;
+  border-width: 1px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+/a, u {
+  text-decoration: none;
+}
+
+a {
+  border-radius: 4px;
+  text-decoration: none;
+  border-style: solid;
+  padding: 5px;
+  border-width: 1px;
+  background-color: #fcc203;
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  font-family: 'Courgette', cursive;
+  font-size: 100%;
+  background-color: #f0eee9;
+}
